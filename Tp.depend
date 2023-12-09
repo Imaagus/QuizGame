@@ -1,0 +1,100 @@
+# depslib dependency file v1.0
+1697834136 source:c:\users\imaau\onedrive\datos adjuntos\escritorio\tp\main.c
+	<stdio.h>
+	<stdlib.h>
+	"juego.h"
+
+1697827875 source:c:\users\imaau\onedrive\datos adjuntos\escritorio\tp\respuesta.c
+
+1697834011 source:c:\users\imaau\onedrive\datos adjuntos\escritorio\tp\jugador.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"jugador.h"
+	"juego.h"
+
+1697573602 c:\users\imaau\onedrive\datos adjuntos\escritorio\tp\jugador.h
+	"pregunta.h"
+	"puntos.h"
+
+1697827882 c:\users\imaau\onedrive\datos adjuntos\escritorio\tp\respuesta.h
+
+1697827707 source:c:\users\imaau\onedrive\datos adjuntos\escritorio\tp\pregunta.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"respuesta.h"
+	"pregunta.h"
+
+1697827710 c:\users\imaau\onedrive\datos adjuntos\escritorio\tp\pregunta.h
+	"respuesta.h"
+
+1697573796 source:d:\facultad\programacion\tp\jugador.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"jugador.h"
+	"juego.h"
+
+1697573602 d:\facultad\programacion\tp\jugador.h
+	"pregunta.h"
+	"puntos.h"
+
+1696874214 d:\facultad\programacion\tp\pregunta.h
+	"respuesta.h"
+
+1696542606 d:\facultad\programacion\tp\respuesta.h
+
+1697569022 source:d:\facultad\programacion\tp\main.c
+	<stdio.h>
+	<stdlib.h>
+	"jugador.h"
+	"juego.h"
+
+1697151406 source:d:\facultad\programacion\tp\pregunta.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"respuesta.h"
+	"pregunta.h"
+
+1696861382 source:d:\facultad\programacion\tp\respuesta.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"respuesta.h"
+
+1697497322 source:d:\facultad\programacion\tp\puntos.c
+	<stdio.h>
+	<stdlib.h>
+	"puntos.h"
+
+1697827629 source:c:\users\imaau\onedrive\datos adjuntos\escritorio\tp\puntos.c
+	<stdio.h>
+	<stdlib.h>
+	"puntos.h"
+
+1697827633 c:\users\imaau\onedrive\datos adjuntos\escritorio\tp\puntos.h
+
+1697497326 d:\facultad\programacion\tp\puntos.h
+
+1697834174 source:c:\users\imaau\onedrive\datos adjuntos\escritorio\tp\juego.c
+	<stdio.h>
+	<stdlib.h>
+	"juego.h"
+	"jugador.h"
+
+1697816734 c:\users\imaau\onedrive\datos adjuntos\escritorio\tp\juego.h
+	"jugador.h"
+
+1697573686 source:d:\facultad\programacion\tp\juego.c
+	<stdio.h>
+	<stdlib.h>
+	"juego.h"
+	"jugador.h"
+
+1697547126 d:\facultad\programacion\tp\juego.h
+	"jugador.h"
+

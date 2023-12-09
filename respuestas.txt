@@ -1,0 +1,100 @@
+1-7-1-0
+2-4-1-0
+3-6-1-1
+4-5-1-0
+1-2013-2-0
+2-2009-2-0
+3-2011-2-1
+4-2012-2-0
+1-flamengo-3-1
+2-river plate-3-0
+3-gremio-3-0
+4-palmeiras-3-0
+1-francia-4-0
+2-brazil-4-0
+3-alemania-4-1
+4-argentina-4-0
+1-10-5-0
+2-6-5-0
+3-8-5-0
+4-7-5-1
+1-2013-6-1
+2-2015-6-0
+3-2011-6-0
+4-2010-6-0
+1-racing-7-0
+2-boca-7-0
+3-defensa y justicia-7-0
+4-river-7-1
+1-barcelona-8-0
+2-inter de miami-8-1
+3-psg-8-0
+4-al hilal-8-0
+1-1994-9-1
+2-1990-9-0
+3-1986-9-0
+4-1998-9-0
+1-al hilal-10-0
+2-manchester united-10-0
+3-al nassr-10-1
+4-real madrid-10-0
+1-Cristiano Ronaldo-11-0
+2-Dani Alves-11-0
+3-Lionel Messi-11-1
+4-Andres Iniesta-11-0
+1-Italia-12-0
+2-Inglaterra-12-1
+3-Francia-12-0
+4-Alemania-12-0
+1-La del aguante-13-0
+2-La bombonera-13-0
+3-La invencible-13-0
+4-La 12-13-1
+1-Los borrachos del tablon-14-1
+2-Los del monumental-14-0
+3-Los del barrio-14-0
+4-Los invencibles-14-0
+1-San lorenzo-15-0
+2-Boca juniors-15-0
+3-Argentino juniors-15-1
+4-Banfield-15-0
+1-River plate-16-0
+2-Independiente-16-1
+3-Boca juniors-16-0
+4-Estudiantes de la plata-16-0 
+1-8-17-0
+2-6-17-0
+3-3-17-0
+4-5-17-1
+1-Javier Saviola-18-0
+2-Sergio Aguero-18-1
+3-Diego Maradona-18-0
+4-Carlos Tevez-18-0
+1-Urugay-19-1
+2-Inglaterra-19-0
+3-Alemania-19-0
+4-Francia-19-0
+1-Barcelona-20-0
+2-Manchester United-20-0
+3-Real madrid-20-1
+4-Liverpool-20-0
+1-Diego Simeone-21-1
+2-Marcelo Gallardo-21-0
+3-Miguel Russo-21-0
+4-Lionel Scaloni-21-0
+1-Maradona-22-0
+2-Neymar jr-22-0
+3-Pele-22-1
+4-Dani Alves-22-0
+1-0-23-0
+2-2-23-0
+3-4-23-0
+4-1-23-1
+1-2-24-0
+2-3-24-1
+3-0-24-0
+4-4-24-0
+1-Argentino Junior-25-0
+2-Rosario Central-25-0
+3-Boca-25-1
+4-Huracan-25-1
